@@ -10,4 +10,5 @@
   <li>Pixel Arithmetic Operation</li>
   <li>Fourier Transform</li>
   <li>Opacity Image</li>
+  <li>LSB Steganography</li>
 </ul>
